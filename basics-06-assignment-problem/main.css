@@ -1,0 +1,31 @@
+body {
+  font-family: Impact;
+}
+
+#assignment-instructions {
+  color: rebeccapurple;
+  font-family: sans-serif;
+}
+
+code {
+  font-family: monospace;
+  color: red;
+}
+
+.highlighted-code {
+  color: green;
+}
+
+li {
+  font-family: inherit;
+}
+
+li + li {
+  background: black;
+  color: white;
+}
+
+ol > li {
+  background: black;
+  color: white;
+}
